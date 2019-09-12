@@ -1,0 +1,13 @@
+# change db endpoint and user if different below
+psql -h mypg.cwqzoemqjadl.us-east-1.rds.amazonaws.com -p 5432 -U postgres
+
+# show databases
+\l               
+
+# switch to helloworlddb
+\c helloworlddb
+
+# show tables 
+\dt            
+
+
