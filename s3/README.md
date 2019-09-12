@@ -1,4 +1,4 @@
-####S3 Demo steps
+#### S3 Demo steps
 
 * Create S3 bucket with versioning
 * Upload sample txt

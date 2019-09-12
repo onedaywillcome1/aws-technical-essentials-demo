@@ -1,4 +1,4 @@
-####EC2 Demo steps
+#### EC2 Demo steps
 
 * Create Instance with userdata script & admin role
 * Wait instance to be alive, and get the public url and show apache is working

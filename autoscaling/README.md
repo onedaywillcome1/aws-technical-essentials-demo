@@ -1,4 +1,4 @@
-####Autoscaling Demo steps
+#### Autoscaling Demo steps
 
 * Create LC with user data script and detailed monitoring
 * Create ASG with 1-3 cpu scaling policy & sns notification
